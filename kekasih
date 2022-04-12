@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Home</title>
+<link rel="stylesheet" href="style.css">
+<link rel="shortcut icon" type="image/x-icon" href="/images/channels4_profile.jpg" />
+<script async src='/cdn-cgi/challenge-platform/h/g/scripts/invisible.js?ts=1649764800'></script></head>
+<body>
+<section>
+<div class="col">
+<h1>Watch TV channels by donating.</h1>
+</section>
+<section>
+<div class="container reveal">
+<h2>What is this playlist?</h2><br>
+<div class="text-card">
+<p>It allows you to watch live TV channels by donating which is cheaper than others (free is no longer available due to sellers).</p>
+</div>
+<div class="text-card"><br>
+<p>I'm only put some of the Malaysian playlist, including the international channel that was available in Malaysia TV provider.</p>
+</div>
+<div class="text-card"><br>
+<p>But soon I will put some international TV channels as soon as I can. So stay tuned for that.</p>
+</div>
+</div>
+</div>
+</section>
+<header>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+<img src="/images\Untitled.png" height="80px" < img>
+<div class="menu-btn" < div>
+<div class="navigation">
+<div class="navigation-items">
+<a href="/">Home</a>
+<a href="/about">About</a>
+<a href="/tutorial">Tutorial</a>
+<a href="/radio">Radio</a>
+<a href="/download">Download</a>
+<a href="/join">Join</a>
+<a href="/contact">Contact</a>
+</div>
+</div>
+</header>
+<script type="b1bc553962ba472ff3cee183-text/javascript">
+    window.addEventListener('scroll', reveal);
+
+    function reveal(){
+      var reveals = document.querySelectorAll('.reveal');
+
+      for(var i = 0; i < reveals.length; i++){
+
+        var windowheight = window.innerHeight;
+        var revealtop = reveals[i].getBoundingClientRect().top;
+        var revealpoint = 150;
+
+        if(revealtop < windowheight - revealpoint){
+          reveals[i].classList.add('active');
+        }
+        else{
+          reveals[i].classList.remove('active');
+        }
+      }
+    }
+    </script>
+</div>
+<div class="slider-navigation">
+<div class="nav-btn active"></div>
+<div class="nav-btn"></div>
+<div class="nav-btn"></div>
+<div class="nav-btn"></div>
+<div class="nav-btn"></div>
+</div>
+</section>
+<div class="media-icons">
+<a href="#"><i class="fab fa-facebook-f"></i></a>
+<a href="#"><i class="fab fa-instagram"></i></a>
+<a href="#"><i class="fab fa-twitter"></i></a>
+</div>
+<div class="slider-navigation">
+<div class="nav-btn active"></div>
+<div class="nav-btn"></div>
+<div class="nav-btn"></div>
+<div class="nav-btn"></div>
+<div class="nav-btn"></div>
+</div>
+</section>
+<script type="b1bc553962ba472ff3cee183-text/javascript">
+//Javacript for responsive navigation menu
+const menuBtn = document.querySelector(".menu-btn");
+const navigation = document.querySelector(".navigation");
+
+menuBtn.addEventListener("click", () => {
+menuBtn.classList.toggle("active");
+navigation.classList.toggle("active");
+});
+
+//Javacript for video slider navigation
+const btns = document.querySelectorAll(".nav-btn");
+const slides = document.querySelectorAll(".video-slide");
+const contents = document.querySelectorAll(".content");
+
+var sliderNav = function(manual){
+btns.forEach((btn) => {
+  btn.classList.remove("active");
+});
+
+slides.forEach((slide) => {
+  slide.classList.remove("active");
+});
+
+contents.forEach((content) => {
+  content.classList.remove("active");
+});
+
+btns[manual].classList.add("active");
+slides[manual].classList.add("active");
+contents[manual].classList.add("active");
+}
+
+btns.forEach((btn, i) => {
+btn.addEventListener("click", () => {
+  sliderNav(i);
+});
+});
+</script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b1bc553962ba472ff3cee183-|49" defer=""></script><script type="text/javascript">(function(){window['__CF$cv$params']={r:'6fabf20aaffd18cc',m:'FTBjc6jLgi678mL3yv8uZ3G9juOtkBUG_5HULlsXDkA-1649766335-0-AUgtuOXqWviARCqVz+IWIEfj/NSqNGmczR0JL+rfmzl79iCOTzMdoWOqXf9p7nPDNjqi4If6CUPqD9H0emRJVmjDj0b6TdMnmH57r2Aekba4jz4/EjWeowG1vH0b+kDVLQ==',s:[0xe1118202ba,0x8f2b733e0a],u:'/cdn-cgi/challenge-platform/h/g'}})();</script></body>
+</html>
