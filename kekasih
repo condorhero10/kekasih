@@ -19,7 +19,7 @@ http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m02528583999818620657&ct=18379&tsu
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia Backup" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=annayunna63@gmail.com&key=Hilmi23011993
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
 https://linears-playback.astro.com.my/vsgN/41KPzKMI9pj8KlBCMu4dx_bu8WJepOOCUzY3_ArzxALsE=JmYZ/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
