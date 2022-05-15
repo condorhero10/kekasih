@@ -16,11 +16,6 @@ https://stream-05.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXVKhn9hlMbi223-Cpc
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
 http://50.7.161.82:8278/Ria/playlist.m3u8?tid=m02528583999818620657&ct=18379&tsum=b78da248bf2abd0495bedb7f4e1ffee2
 
-
-#EXTINF:-1 group-title="Astro" tvg-id="AstroRia Backup" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
-http://line.yo-ott.com:8000/167d10c8c2/50cda00648/391068
-
-
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
