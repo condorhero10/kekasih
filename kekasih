@@ -10,7 +10,7 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 #EXTINF:-1 tvg-id="TV3" group-title="myFreeview" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3
-https://stream-01.ix7.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXSZlPVJgIQ0dGEPDuXExr8W4RyKH20zoyWCpyhEy7_K69gDL5vwkcXUqKFJgpXDsFQ)/dm/3/x6qp375/d/live-3.m3u8
+https://live.astradamy.com/tv3/index.m3u8
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
 https://linears-playback.astro.com.my/vsg/41Ha_q6-hwmDS5SupIH8hwzvGxnCciUJhknWNeTrFu2Jg=sjHK/dash-wv/jitp-linearwm/1004/default_ott.mpd
@@ -30,7 +30,9 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna
-https://link.zozotv.xyz:443/Aina_90/abc1234/272
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
+http://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9GVJforO-1Y60nPyBGLkKfo=nFju/dash-wv/jitp-linearwm/2402/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Movies" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 https://link.zozotv.xyz:443/Aina_90/abc1234/37
@@ -287,7 +289,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1002/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 
 
-#EXTINF:-1 tvg-id="K-Plus" ch-number="396" group-title="GO Exclusive" tvg-logo="http://www.kplus-asia.com/img/title/logo.png",396 KPlus HD
+#EXTINF:-1 tvg-id="K-Plus" ch-number="396" group-title="Korean" tvg-logo="http://www.kplus-asia.com/img/title/logo.png",396 KPlus HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ddd9708a62b9e2eb44448dd1a6841310&key=0b248e71fef0c27988fa10049b32f309
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
