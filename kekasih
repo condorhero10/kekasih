@@ -14,8 +14,8 @@ https://live.astradamy.com/tv3/index.m3u8
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=RxW2rbxlEvwkyZywzzQKfB7uGl-CLPwLut874ictCGi4BNHa0MEq7Q&key=43aUZ7t24LRXL2r814e4A3Bo0iAtthqpUHWDBIFRl4QbPqthOsLZ7g
-https://linears-playback.astro.com.my/vsg/41Ha_q6-hwmDS5SupIH8hwztl3qrJ3gTeyQ0h_8T953lw=daQe/dash-wv/jitp-linearwm/1004/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=SdUIqzWJVmQfGrCkNaVK1QlWBkeemlABkhC2XWBpR47hFpB6jPUPLQ&key=uCmT6tGDNXFlFeajNJmHwkQrg350sOCkEPyeejuOsu1eLKzBHToWJQ
+https://linears-playback.astro.com.my/vsg/41Ha_q6-hwmDS5SupIH8hwzoJCIX65BjkV36dnk6Ivt1A=kXic/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
