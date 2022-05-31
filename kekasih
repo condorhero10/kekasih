@@ -1,5 +1,4 @@
-
-#EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="",104 Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=edef8ba979d64acea3c827dcd51d21ed
+#EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="",104 Astro Ria
 http://linears-playback.astro.com.my/vsg/41Ha_q6-hwmDS5SupIH8hwziOv99kiZdhm8slNNf4ornU=ZVmx/dash-wv/jitp-linearwm/1004/default_ott.mpd
