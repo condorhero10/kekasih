@@ -747,9 +747,4 @@ http://axcestv.vip:8080/freeview/axcestv/499
 #EXTINF:-1 tvg-id="" tvg-name="Astro First -Penunggang Agama 2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First -Penunggang Agama 2
 http://axcestv.vip:8080/freeview/axcestv/500
 
-#EXTINF:-1 tvg-id="CHN" group-title="MuZu | Info" ch-number="2" tvg-logo="https://mzulhairyhusin.vercel.app/api/raw/?path=/MUZU.png",-=NOT FOR SALE=-
-https://mzulhairyhusin.vercel.app/api/raw/?path=/MuZu.mp4
-
-#EXTINF:-1 tvg-id="CHN" group-title="MuZu | Info" ch-number="2" tvg-logo="https://mzulhairyhusin.vercel.app/api/raw/?path=/MUZU.png",-=READ THIS=-
-https://mzulhairyhusin.vercel.app/api/raw/?path=/muzu2.mp4
 
