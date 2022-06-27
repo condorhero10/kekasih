@@ -19,7 +19,7 @@ https://link-playback.kaytv.com.my@4aog.short.gy/ria.mpd
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=LqXnWSs6jyCfc1R0h7QAAAAwiBDEwMDBI49yVmwY
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=AAAALHBzc2gAAAAA7eLqXnWSs6jyCfc1R0h7QAAAAwiBDEwMDBI49yVmwY
 https://linears-playback.astro.com.my/vsgN/418gwX_3XHX2T2HRWDn8jpR0vOuMEBK6q9Kdcu18we5Bo=kM0H/dash-wv/jitp-linearwm/1000/default_ott.mpd
 
 
