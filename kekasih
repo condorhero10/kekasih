@@ -23,7 +23,7 @@ https://link-playback.kaytv.com.my@4aog.short.gy/ria.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 
-#EXTINF:-1 tvg-id="DramaSangat" group-title="Online TV" ch-number="105" tvg-logo="https://aqfadtv.xyz/logos/DramaSangatWhite.png",Drama Sangat
+#EXTINF:-1 tvg-id="DramaSangat" group-title="myFreeview" ch-number="105" tvg-logo="https://aqfadtv.xyz/logos/DramaSangatWhite.png",Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 #https://aqfadtv.astradamy.com/stream/DramaSangat.php
 
@@ -283,10 +283,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ba8842e119ee61ac7c613e1e6a1e3e10&key=46ed2370a8cc4cef2665e03e110f9455
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
 
-#EXTINF:-1 tvg-id="OhK" ch-number="394" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/191_144.png",394 Oh!K HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1dcd711054d1b3e2b16b41e2446d8c10&key=f0b97c062a990e4b99cfed4527aed878
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1002/default_ott.mpd
 
 #EXTINF:-1 tvg-id="tvN" ch-number="395" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",395 tvN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -336,11 +332,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8cfb499a75630eca1d50e584f58e9310&key=0a11d637ad2eaa1f7a75f42b7fc72b30
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
-#EXTINF:-1 tvg-id="HBOFamilyAsia.us" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="Movies",HBO FAMILY
-https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
-
 #EXTINF:-1 tvg-id="HBOHits1" ch-number="415" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",415 HBO Hits +1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2d8d9b7ed94fad6e56f1642504605b10&key=cf881ed230797c106f8e6ac843d797f3
@@ -348,8 +339,29 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
-#EXTINF:-1 tvg-id="HBOHits.us" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-title="Movies",HBO HITS
-https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+#EXTINF:-1 tvg-id="HBOSignatureAsia.us" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png" group-title="Movies",HBO SIGNATURE
+https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="Movies",CINEMAWORLD
+https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Galaxy.id" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png" group-title="Movies",GALAXY
+https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586679050-.png" group-title="Movies",GALAXY PREMIUM
+https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png" group-title="MOVIE",IMC
+https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -704,48 +716,4 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Jaga-Jaga Senariounion" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First- Jaga-Jaga Senariounion
-http://axcestv.vip:8080/freeview/axcestv/486
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro First-The Disappearance of Irdina Adhwa" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First-The Disappearance of Irdina Adhwa
-http://axcestv.vip:8080/freeview/axcestv/487
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Gila Gusti" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First- Gila Gusti
-http://axcestv.vip:8080/freeview/axcestv/488
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Autumn In Wales" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First- Autumn In Wales
-http://axcestv.vip:8080/freeview/axcestv/489
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Renjana" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First- Renjana
-http://axcestv.vip:8080/freeview/axcestv/490
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Kabus" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First- Kabus
-http://axcestv.vip:8080/freeview/axcestv/491
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Kedai Antik Wak Jambi" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First- Kedai Antik Wak Jambi
-http://axcestv.vip:8080/freeview/axcestv/492
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Kg Pisang Berbuah Dua Kali" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First- Kg Pisang Berbuah Dua Kali
-http://axcestv.vip:8080/freeview/axcestv/493
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Hantu Kuat Ketawa" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First- Hantu Kuat Ketawa
-http://axcestv.vip:8080/freeview/axcestv/494
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Hantu Mok Joh" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First- Hantu Mok Joh
-http://axcestv.vip:8080/freeview/axcestv/495
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Marabahaya Underground" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First- Marabahaya Underground
-http://axcestv.vip:8080/freeview/axcestv/496
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro First- Serangan Pocong" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First- Serangan Pocong
-http://axcestv.vip:8080/freeview/axcestv/497
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro First - Siapa Tutup Lampu?" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First - Siapa Tutup Lampu?
-http://axcestv.vip:8080/freeview/axcestv/498
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro First - Hantu Ke Lima" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First - Hantu Ke Lima
-http://axcestv.vip:8080/freeview/axcestv/499
-
-#EXTINF:-1 tvg-id="" tvg-name="Astro First -Penunggang Agama 2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" group-title="Astro First",Astro First -Penunggang Agama 2
-http://axcestv.vip:8080/freeview/axcestv/500
 
