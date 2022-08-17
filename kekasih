@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna
-https://smetv.live:443/play/NkmAq3gXObo1bORTZDGEMztcMyr3_qnJFfuOgt6eEaM
+https://m3u-editor.com/serve/qwe1234123412/463614332
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 https://smetv.live:443/play/NkmAq3gXObo1bORTZDGEMxOoV29CS93LS6EEnsDh15M
