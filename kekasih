@@ -654,10 +654,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="Sports" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 Astro SuperSport 2 HD
-https://aqfadtv.xyz/supersport2.m3u8
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142713.m3u8
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="Sports" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 Astro SuperSport 3 HD 
-https://aqfadtv.xyz/supersport3.m3u8
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142714.m3u8
 
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="Sports" ch-number="814" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png",814 Astro SuperSport 4 HD
 https://aqfadtv.xyz/supersport4.m3u8
