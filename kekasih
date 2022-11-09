@@ -49,7 +49,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8
 
 
-#EXTINF:-1 tvg-id="TVAlhijrah" ch-number="114" tvg-logo="https://aqfadtv.astradamy.com/logos/TVAlhijrahWhite.png" group-title="myFreeview",114 TV AlHijrah
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="TVAlhijrah" tvg-chno="114" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png",114 TV Alhijrah
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1113
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
@@ -244,7 +244,7 @@ https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremiu
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2305
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 
-#EXTINF:-1 tvg-id="BOO" tvg-name="BOO" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg" group-title="ASTRO",BOO
+#EXTINF:-1 tvg-id="BOO" ch-number="404" tvg-name="BOO" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg" group-title="ASTRO",404 BOO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_ott.mpd
