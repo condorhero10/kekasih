@@ -3,7 +3,7 @@
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8
 
 
-#EXTINF:-1 tvg-id="TV2" group-title="myFreeview" ch-number="102" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",102 TV2
+#EXTINF:-1 tvg-id="TV2" group-title="myFreeview" ch-number="102" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",102 TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
 
 #EXTINF:-1 tvg-id="TV3" group-title="myFreeview" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3
@@ -62,7 +62,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8
 
 
-#EXTINF:-1 group-title="Malaysian Variety" tvg-id="TVAlhijrah" tvg-chno="114" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png",114 TV Alhijrah
+#EXTINF:-1 tvg-id="TVAlhijrah" group-title="myFreeview" tvg-chno="114" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png",114 TV Alhijrah
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1113
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
