@@ -571,7 +571,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 
 
-
 #EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" group-title="Sports" tvg-logo="https://iili.io/1NzIte.png",SPOTV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi 
