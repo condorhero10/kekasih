@@ -178,7 +178,7 @@ https://aqfadtv.xyz/live/aec/index.mpd
 #EXTINF:-1 tvg-id="AstroShuangXing" ch-number="307" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Astro_Shuang_Xing_%282015%29.png/revision/latest?cb=20190106060728",307 Astro Shuang Xing
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2403
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_ott.mpd
+https://aqfadtv.xyz/live/shuangxing/index.mpd
 
 
 #EXTINF:-1 tvg-id="AstroQuanJiaHD" ch-number="308" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/308_300.png/revision/latest?cb=20200122111044",308 Astro Quan Jia HD
@@ -204,7 +204,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default_ott.mpd
 #EXTINF:-1 tvg-id="CTIAsia" ch-number="316" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png",316 CTI Asia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2517
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
+https://aqfadtv.xyz/live/ctiasia/index.mpd
 
 
 #EXTINF:-1 tvg-id="TVBXingHe" ch-number="319" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",319 TVB Xing He
