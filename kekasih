@@ -250,7 +250,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
 #EXTINF:-1 tvg-id="KBSWorld" ch-number="392" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png",392 KBS World HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2306
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
+https://aqfadtv.xyz/live/kbsworld/index.mpd
 
 
 #EXTINF:-1 tvg-id="ONE" ch-number="393" group-title="Korean" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",393 ONE HD 
