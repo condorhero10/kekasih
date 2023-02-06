@@ -297,7 +297,7 @@ https://aqfadtv.xyz/live/hbo/index.mpd
 #EXTINF:-1 tvg-id="Cinemax" ch-number="412" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",412 Cinemax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/603
-http://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
 
 #EXTINF:-1 tvg-id="ShowcaseMovies" ch-number="413" group-title="Movies" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png",413 Showcase Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
