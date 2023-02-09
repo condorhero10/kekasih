@@ -14,7 +14,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/ 
 https://aqfadtv.xyz/live/tv3/index.mpd
 
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="ASTRO RIA" group-title="Astro" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="ASTRO RIA" group-title="Astro" tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",104 Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004/
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
@@ -29,7 +29,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2505
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
-#EXTINF:-1 tvg-id="BernamaTV" ch-number="502" group-title="myFreeview" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",502 BERNAMA
+#EXTINF:-1 tvg-id="BernamaTV" ch-number="502" group-title="myFreeview" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",502 Bernama
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1114
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
@@ -42,7 +42,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 
 #EXTINF:-1 tvg-id="AstroAwani" group-title="Astro" ch-number="501" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501.png",501 Astro Awani HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5025 
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5025  
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5025/default_ott.mpd 
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 
