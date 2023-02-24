@@ -32,18 +32,14 @@ https://aqfadtv.xyz/live/oasis/index.mpd
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRsVB3PcKr8W1W7p6IsB018M=rd3C/dash-wv/jitp-linearwm/2402/default_ott.mpd
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRiRT95c2pUXXctBCZgKHchU=kFwK/dash-wv/jitp-linearwm/2402/default_ott.mpd
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRrqQFeyg3gXuguwuHmmWiCY=o9UC/dash-wv/jitp-linearwm/2402/default_ott.mpd
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRsA_K1KyG-nDrz5_UpHb1EE=1ZuP/dash-wv/jitp-linearwm/2402/default_ott.mpd
+https://warna.astradamy.com/dash-wv/jitp-linearwm/2402/default.mpd
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRt0LlBxxRGFxvosE5iQINNk=3y2m/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRmmRLRzKKUDyAXCVJlACAPM=ipfw/dash-wv/jitp-dashisowm/2700/default_ott.mpd
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRiuv84h-P4ZOSW8wS9w86qw=Wh00/dash-wv/jitp-dashisowm/2700/default_ott.mpd
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRmr5QiM7ueTcExjlkCV7Lz4=2peo/dash-wv/jitp-dashisowm/2700/default_ott.mpd
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRnxW5_VUBgNtvp6Faeztjqs=NgXp/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+https://citra.astradamy.com/dash-wv/jitp-linearwm/2700/default.mpd
+https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRs6p1b4QCl1N36gGWJ_UXDg=bnu7/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
 #EXTINF:-1 tvg-id="BernamaTV" ch-number="502" group-title="myFreeview" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",502 Bernama
 https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
@@ -373,7 +369,7 @@ https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.m
 
 #EXTINF:-1 group-title="Kids" ch-number="472" tvg-id="Animax" tvg-chno="472" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",472 Animax HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 #EXTVLCOPT:http-referrer=http://www.astro.com.my
 https://av-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
@@ -419,10 +415,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroCeria" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230" ch-number="611",611 Astro Ceria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
-https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLe_JmExehGHXTnzcqtME8ROg=ysIK/dash-wv/jitp-linearwm/2606/default_ott.mpd
-https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLe2AOX8c91xKQZ49ddp0Y64I=ek_h/dash-wv/jitp-linearwm/2606/default_ott.mpd
-https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLe9qUjakhn7Kp1Qip5yQH1_Q=TfHt/dash-wv/jitp-linearwm/2606/default_ott.mpd
-https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLewFNhcsuOe4eJbNtkGfGBRE=DncS/dash-wv/jitp-linearwm/2606/default_ott.mpd
+https://ceria.astradamy.com/dash-wv/jitp-linearwm/2606/default.mpd
 
 
 #EXTINF:-1 tvg-id="CartoonNetwork" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" ch-number="615",615 Cartoon Network
