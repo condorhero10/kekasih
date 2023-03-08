@@ -194,17 +194,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 
 
-#EXTINF:-1 tvg-id="AstroAEC" ch-number="306" group-title="Chinese" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",306 Astro AEC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2400
-https://aqfadtv.xyz/live/aec/index.mpd
-
-#EXTINF:-1 tvg-id="AstroShuangXing" ch-number="307" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Astro_Shuang_Xing_%282015%29.png/revision/latest?cb=20190106060728",307 Astro Shuang Xing
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2403
-https://aqfadtv.xyz/live/shuangxing/index.mpd
-
-
 #EXTINF:-1 tvg-id="AstroQuanJiaHD" ch-number="308" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/308_300.png/revision/latest?cb=20200122111044",308 Astro Quan Jia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2507
@@ -319,7 +308,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
 #EXTINF:-1 tvg-id="ShowcaseMovies" ch-number="413" group-title="Movies" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png",413 Showcase Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5054
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default.mpd
 
 #EXTINF:-1 tvg-id="HBOFamily1" ch-number="414" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",414 HBO Family +1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -362,8 +351,6 @@ https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manife
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2406
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
-#EXTINF:-1 tvg-id="CHN" group-title="Korean" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210930/20210930172146349qec.png" ch-number="463",463 Arirang TV
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9 
@@ -419,9 +406,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2710/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroCeria" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230" ch-number="611",611 Astro Ceria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
-http://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLe5_-2UQIttuuaJb42YFnnTE=JT5Y/dash-wv/jitp-linearwm/2606/default_ott.mpd
-https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLe6shwDDyrutpa13O9AdlVR0=Y2xJ/dash-wv/jitp-linearwm/2606/default_ott.mpd
-https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLe_LnovwXjE476XJVGfy9GIQ=_rxQ/dash-wv/jitp-linearwm/2606/default_ott.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2408/default.mpd
+https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLe0ZDbKfyWPjIqxNGOkX4lS4=xTmU/dash-wv/jitp-linearwm/2606/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/413SMQfHEFTc3pXr-_M3bLewVhW0yaauAVqwODv5ABVDU=xsvO/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="CartoonNetwork" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" ch-number="615",615 Cartoon Network
@@ -518,14 +505,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5050
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd
-
-#EXTINF:-1 tvg-id="MTVAsia" ch-number="718" group-title="Korean" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210913/20210913160636492fzf.png",718 MTV Asia HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5014
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
-
-#EXTINF:-1 tvg-id="CHN" group-title="Korean" ch-number="719" tvg-logo="https://aqfadtv.astradamy.com/logos/K-DAILY.png",719 K-DAILY TV
-https://asrazunifi.ddns.net:8443/live.m3u8
 
 
 #EXTINF:-1 tvg-id="701" group-title="Sports"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1 HD
