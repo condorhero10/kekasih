@@ -363,8 +363,6 @@ https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.m
 https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 
-#EXTINF:-1 group-title="Kids" ch-number="472" tvg-id="Animax" tvg-chno="472" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",472 Animax HD
-https://nxanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 group-title="Kids" ch-number="473" tvg-id="Aniplus" tvg-chno="472" tvg-logo="https://iili.io/1Nc919.jpg",473 Aniplus HD
 http://210.210.155.37/session/3c285a9c-a4ad-11ec-92c6-b82a72d63267/dr9445/h/h02/index.m3u8
