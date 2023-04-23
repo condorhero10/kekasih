@@ -37,7 +37,7 @@ https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNh_Z_xYseRljlqH1
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5085
-https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNoGmWJ732L-A2EbPnFoPZNk=uggc/dash-wv/jitp-dashisowm/2700/default_ott.mpd?PID=&PAID=2700&deviceIdType=[devIdType]&deviceId=117d6d480205366553b45e4ca99dde45&appId=astrogo.astro.com.my&appName=[appName]&devModel=[devModel]&sessionId=abr-linear-1df95ea1-5529-4fad-991c-17ff6a833c5d&optin=true&hhid=036ec69a9982cad4148020bebe5eca5e&kvp=lang~may&kvp=genre~HD,MALAY,MOVIES&daiEnabled=true
+https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNk8VnuerRLNUeg0nKjnOf88=AdM_/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
 #EXTINF:-1 tvg-id="BernamaTV" ch-number="502" group-title="myFreeview" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",502 Bernama
 https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
