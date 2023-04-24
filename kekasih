@@ -36,7 +36,7 @@ https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNgEmxdvsHjOW_wYQ
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b7b0d38e2cba4ff2a6c36813afb8e049&key=036ec69a9982cad4148020bebe5eca5e
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=84bf9ad6848be7db20f9d16823deef10&key=edef8ba979d64acea3c827dcd51d21ed
 https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNrMaCP9ePXdr6vWFCN1mIqg=dUmx/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
 #EXTINF:-1 tvg-id="BernamaTV" ch-number="502" group-title="myFreeview" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",502 Bernama
