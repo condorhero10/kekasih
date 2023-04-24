@@ -34,15 +34,10 @@ https://aqfadtv.xyz/live/oasis/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2402
 https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNqZFVMtGym6w0q5y7qSmLSg=ASMB/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
-EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5085
-https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNqf2Y1yZtPLgeR5BtGpNhJo=mNjw/dash-wv/jitp-dashisowm/2700/default_ott.mpd
-
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
-#EXTVLCOPT:http-user-agent=com.iiptvlinkk.net.puasa
-http://hotz.vip:2082/ejumjom/ejumjom/27
-http://hotz.vip:2082/ejumjom/ejumjom/28
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=70c9cf5ec5c44a83b1081045a2d018a0&key=036ec69a9982cad4148020bebe5eca5e
+https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNkmt1onqVlSKHpW-efNhpyA=KwFq/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
 #EXTINF:-1 tvg-id="BernamaTV" ch-number="502" group-title="myFreeview" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",502 Bernama
 https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
