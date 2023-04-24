@@ -36,24 +36,13 @@ https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNgEmxdvsHjOW_wYQ
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=84bf9ad6848be7db20f9d16823deef10&key=edef8ba979d64acea3c827dcd51d21ed
-https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNrMaCP9ePXdr6vWFCN1mIqg=dUmx/dash-wv/jitp-dashisowm/2700/default_ott.mpd
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest/scale-to-width-down/250?cb=20201215114818", Astro Citra HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
 https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNrMaCP9ePXdr6vWFCN1mIqg=dUmx/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" } 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Astro_Citra.png/revision/latest/scale-to-width-down/250?cb=20201215114818", Astro Citra HD
-#EXTVLCOPT:http-user-agent=Dart/2.19 (dart:io)
-https://linears-playback.astro.com.my/vsg/41GvcpipKG5xpAPLEAYC5eNrMaCP9ePXdr6vWFCN1mIqg=dUmx/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
 #EXTINF:-1 tvg-id="BernamaTV" ch-number="502" group-title="myFreeview" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",502 Bernama
 https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
+
 
 #EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title="myFreeview" tvg-logo="https://iili.io/1NqAMl.png",123 Awesome TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
