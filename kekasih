@@ -45,10 +45,8 @@ http://tv365.me/live/8059765630/3322606439/191874.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700
 http://149.18.85.131/live/8059765630/3322606439/79327.m3u8
 
-#EXTINF:-1 tvg-id="AstroSensasi" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Unifi_Sensasi.png", Astro Sensasi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
-https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
+#EXTINF:-1 tvg-id="AstroSensasi" group-title="Astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Astro_Sensasi.png", Astro Sensasi HD
+http://149.18.85.131/live/8059765630/3322606439/13490.m3u8
 
 #EXTINF:-1 tvg-id="BernamaTV" ch-number="502" group-title="myFreeview" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",502 Bernama
 https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
