@@ -93,7 +93,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yEdSMcCdwbY5iGl2tvx1dQ","kid":"YPICsWQH/t2ONpwyr1fdEA"}],"type":"temporary"}
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default.mpd
 
 
 #EXTINF:-1 tvg-id="DidikTVKPM" ch-number="147" group-title="myFreeview" tvg-logo="https://didik.tv/images/logotv2.png",147 DidikTV KPM
