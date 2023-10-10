@@ -574,7 +574,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_primary.mpd
 #EXTINF:-1 tvg-id="PremierSports" group-title="Sports" ch-number="823" tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png",Premier Sports HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2601
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd 
 
 #EXTINF:-1 tvg-id="AstroCricket" group-title="Sports" ch-number="824" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",Astro Cricket
 #KODIPROP:inputstream.adaptive.license_type=clearkey
