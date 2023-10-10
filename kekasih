@@ -176,7 +176,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
 
 
-#EXTINF:-1 tvg-id="ZeeCinema" ch-number="251" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/490_144.png",Zee Cinema
+#EXTINF:-1 tvg-id="ZeeCinema" ch-number="251" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/490_144.png",Zee Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5106
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default.mpd
