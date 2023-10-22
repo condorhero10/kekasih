@@ -23,12 +23,12 @@ https://linear07-playback.sooka.my/CH4/masterCH4.mpd
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1000
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default.mpd
 
 #EXTINF:-1 tvg-id="AstroOasis" group-title="Astro" ch-number="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Astro_Oasis_2019.png/revision/latest?cb=20190111152636",Astro Oasis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2505
-https://aqfadtv.xyz/live/oasis/index.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -59,12 +59,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 #EXTINF:-1 tvg-id="AstroRania" group-title="Astro" ch-number="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png",Astro Rania
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/608
-https://aqfadtv.xyz/live/rania/index.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default.mpd
 
 #EXTINF:-1 tvg-id="AstroAura" group-title="Astro" ch-number="113" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",Astro Aura
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/609
-https://aqfadtv.xyz/live/aura/index.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default.mpd
 
 
 #EXTINF:-1 tvg-id="AstroAwani" group-title="Astro" ch-number="501" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png",Astro Awani HD
@@ -298,7 +298,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
 #EXTINF:-1 tvg-id="HBO" ch-number="411" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2304
-https://aqfadtv.xyz/live/hbo/index.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default.mpd
 
 #EXTINF:-1 tvg-id="Cinemax" ch-number="412" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",Cinemax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
