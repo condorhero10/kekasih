@@ -97,7 +97,7 @@ https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="AstroTutorTV" ch-number="601" group-title="Freeview" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_TTV_SK.png",Astro Tutor TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https=8829b8f4d91d2630f398c67ed94c2310:aed9dc02038725aadbd0c7bd1709240b
+#KODIPROP:inputstream.adaptive.license_key=8829b8f4d91d2630f398c67ed94c2310:aed9dc02038725aadbd0c7bd1709240b
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd 
 
 #EXTINF:-1 tvg- tvg-id="DEGUP" ch-number="120" group-title="Freeview" logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png",DEGUP
