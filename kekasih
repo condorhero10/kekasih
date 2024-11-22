@@ -49,14 +49,14 @@ http://d1w72er2qn2fg9.cloudfront.net/warna.mpd
 http://d1w72er2qn2fg9.cloudfront.net/citra.mpd
 
 
-#EXTINF:-1 tvg-id="AstroPremier" ch-number="410" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/508_144.png",Astro Premier
+EXTINF:-1 tvg-id="AstroPremier" ch-number="410" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/508_144.png",Astro Premier
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
 
 
 #EXTINF:-1 tvg-id="BernamaTV" ch-number="502" group-title="Freeview" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BNC_v3.png",Bernama
-https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8
+https://ythls-v3.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 
 
 
@@ -93,9 +93,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd
 
 
 #EXTINF:-1 tvg-id="OKEY" ch-number="146" group-title="Freeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60f202b16407fedd8e369c32af57dd10:c8475231c09dc1b639886976b6fc7575
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="DidikTVKPM" ch-number="147" group-title="Freeview" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
@@ -107,7 +105,7 @@ https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
 #EXTINF:-1 tvg-id="AstroTutorTV" ch-number="601" group-title="Freeview" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_TTV_SK.png",Astro Tutor TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=8829b8f4d91d2630f398c67ed94c2310:aed9dc02038725aadbd0c7bd1709240b
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd 
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5071/default.mpd
 
 #EXTINF:-1 tvg- tvg-id="DEGUP" ch-number="120" group-title="Freeview" logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png",DEGUP
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
