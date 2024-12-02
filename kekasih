@@ -19,7 +19,7 @@ EXTINF:-1 tvg-id="AstroRia" group-title="Astro" ch-number="104" tvg-logo="https:
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 http://d1w72er2qn2fg9.cloudfront.net/ria.mpd
 
-#EXTINF:-1 tvg-id="AstroRia" ch-number="104"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Astro",Astro Ria
+#EXTINF:-1 tvg-id="AstroRia" ch-number="104"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Astro",Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
