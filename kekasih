@@ -19,9 +19,9 @@ EXTINF:-1 tvg-id="AstroRia" group-title="Astro" ch-number="104" tvg-logo="https:
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 http://d1w72er2qn2fg9.cloudfront.net/ria.mpd
 
+#EXTINF:-1 tvg-id="AstroRia" ch-number="104"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Astro",Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Q4+2LpcnhSZobZIRJjQ9Mg", "kid":"LzI4FCNIeJ7VqZuaG9jgEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroRia" ch-number="104"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro-Premier_2024.png" group-title="Astro",Astro Ria
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
 
 
@@ -501,7 +501,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_primary.mpd
 
-#EXTINF:-1 tvg-id="WarnerTV" ch-number="712" group-title="Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png",Warner TV HD
+#EXTINF:-1 tvg-id="WarnerTV" ch-number="712" group-title="Entertainment" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png",Warner TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=6093e12639b24cd651ee6b3c13446d10:f8326f668c7bee309e5302b513e5bdf7 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
