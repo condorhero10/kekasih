@@ -572,7 +572,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroGrandstand" ch-number="810" group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png",Astro Grandstand  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpEVTJZelV3T1dVdFlXSTFPUzAwTURGakxUazRaR1V0TmpVME5XRmxNV1JqWmpsaSIsIndtb3BpZCI6MzIsImV4cCI6MTczMzg3ODQxNSwiaWF0IjoxNzMzMjc0NDE1fQ.kEgtWeZQ0B1L7XobO93w2BW6ITKnJiBaLdVzHuuwFlg"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5qSmlaamMzT1RNdE1qYzJOQzAwWVRRNUxUZzRNR0V0WmpVeE5UQmhaRGN6T1RJMyIsIndtb3BpZCI6MzIsImV4cCI6MTczNDM5NTMzNiwiaWF0IjoxNzMzNzkxMzM2fQ.0A-qdQgDFH3OrdeEhxPEmyxGvAa1ML5Nm0DTgWg7E5o"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ", "kid":"xeZBeMM+QYWjQG2EJSzXoA" }], "type":"temporary" }
