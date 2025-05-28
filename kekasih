@@ -363,7 +363,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2688.ts
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rUUgLmT2bvNrP2D6yTzEfw", "kid":"I0HC7NPPSGWIG7D6Eofejw" } ], "type":"temporary" }
 https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
 
-#EXTINF:-1 tvg-id="ROCKEntertainment" ch-number="420" group-title="Movies" tvg-
+EXTINF:-1 tvg-id="ROCKEntertainment" ch-number="420" group-title="Movies" tvg-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
