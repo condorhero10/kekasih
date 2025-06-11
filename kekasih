@@ -23,9 +23,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hBL0RP++NQzy7OBR+RUukA", "kid":"C2Uyau3j7b6B5vtAMX1TEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/dashiso/1000/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
+https://get.perfecttv.net/astro_master.mpd?channel=astroprima&username=vip_level7&password=vip_level7
 
 
 #EXTINF:-1 tvg-id="AstroOasis" group-title="Astro" ch-number="106" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",Astro Oasis
@@ -77,7 +77,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 #EXTINF:-1 tvg-id="120.unifi" ch-number="120" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" group-logo="" group-title="Freeview",Degup 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=M2E0MDgyMmYtMzFkNi0zYWFkLTgyODYtZTA5MDFiNjUyNmZh
-https://webr24.hypp.tv:443/PLTV/88888888/224/3221225748/3221225748.mpd?rrsip=webr24.hypp.tv:443&zoneoffset=0&servicetype=2&icpid=&limitflux=-1&limitdur=-1&tenantId=6001&accountinfo=jp8IZlyE8LUlaNhuQlm9SR7Xmm%2FuH2fjxXTi%2FAanz9%2Fh6Dgp8muSaaqrM%2FMYFba6WaKyc5b4wDRMIV7pi%2BRQcJPsVWyvpuhxRRfHpep94bmacD64Tmc%2BxymBFFcKwXgO04769cc3145b2a0d5c22b748d0b6d36e%3A20250602032506%3AUTC%2C1005926113%2C175.141.242.123%2C20250602032506%2Curn%3AHuawei%3AliveTV%3AXTV55631601%2C1005926113%2C-1%2C0%2C1%2C%2C%2C7%2C88%2C%2C%2C4%2C1615850%2C0%2C521145%2C228840667%2C%2C%2C2%2C1%2C55633563%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAEWOwWrDMBBE_0ZHoXXWtnzQKSVQKG4gbq5hLa8VE9lKJSeQv2-cGHqdmTe8OZLlzw-jsMoLC21R5YBlUbZ5ucEeNSsNFhBE4t86mExY8n6YXB26BTsetidQUskMNxKyQjTL386TW6f1bWw5_nMHjvfBsulSL--UJDkX2dE8hEnuPT1-ol8ngpvVDUrUGhGUxkqLeUkbSpdnI86UtmG8UuTuK7gXYHryicWV7IUc1zSymW7ev7nv2D1t_gAAH2Tb9QAAAA
+https://webr24.hypp.tv:443/PLTV/88888888/224/3221225748/3221225748.mpd?rrsip=webr24.hypp.tv:443&zoneoffset=0&servicetype=2&icpid=&limitflux=-1&limitdur=-1&tenantId=6001&accountinfo=bRy7AC4%2BT2n1Vjlq5OrF6cL%2F38ldhQraSkUNixY9d5rIcIF97ujfWRj%2BdpwEg242GGaNBYz7PZf3sv22YQI8rCwjCMn4JDW6xcirGkH25itGqByAxwOdRJNC89cwtI105b2c0908b2511a928cfcf3e1638230bc%3A20250610080737%3AUTC%2C1005926113%2C210.186.230.232%2C20250610080737%2Curn%3AHuawei%3AliveTV%3AXTV55631601%2C1005926113%2C-1%2C0%2C1%2C%2C%2C7%2C88%2C%2C%2C4%2C1615850%2C0%2C521145%2C3173156885%2C%2C%2C2%2C1%2C55633563%2CEND&GuardEncType=2&it=H4sIAAAAAAAAAEWOyw6CMBRE_6bLBtryWnSlMTExaAK6NZf2UgmFYosm_r2iJG5n5kzO7EHhfit5IzBpMiaUVoK3SY46z6MsVbxVKASQgPfSSUYUWNuNpnR6wS7V5hpHNKJMcBqzlNTL386CWaflY2jQ_7kK_bNTKHVo6RMCBWM8Gpg7N9KThdfZ23VCsF7d4kwUScIKHrGiIPOS1hD6T0NuEDZumMCjPjjzBWQLNiCZQPVgsIQB5fiw9scdvf7YvAG_Y2eg9QAAAA
 
 
 #EXTINF:-1 tvg-id="121.unifi" ch-number="121" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png" group-logo="" group-title="Freeview",Siar 
