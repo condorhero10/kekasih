@@ -19,13 +19,13 @@ https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linears2-playback.astro.com.my/vsg/4101ZxP1xiR8fKrbu-EzpoHWh9wuFZI9jzN0kUSJh4ryc=hiZP/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/4101ZxP1xiR8fKrbu-EzpoHfI7KR5_6UOl-8kc9_XfTlQ=8-CM/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b65326aede3edbe81e6fb40317d5310:8412f444ffbe350cf2ece051f9152e90
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41b9I9IK2KUz80nJrXdKYkSbsKbHBhpqnMpa1Tw5yT5Ts=A2JK/dash-wv/jitp-dashisowm/1000/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41b9I9IK2KUz80nJrXdKYkSWG71ra4vAafnYLeA3m5MEM=IfEm/dash-wv/jitp-dashisowm/1000/default_ott.mpd
 
 
 #EXTINF:-1 tvg-id="AstroOasis" group-title="Astro" ch-number="106" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",Astro Oasis
@@ -39,7 +39,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linears2-playback.astro.com.my/vsg/41MgP8xcDuTzecD_Hk2nh2KNv93kKxOGHGA2TbDZrLieo=ovwn/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+https://linears2-playback.astro.com.my/vsg/41MgP8xcDuTzecD_Hk2nh2KGmzxzzDhEPSiGydRqZgLV8=DcT-/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
 
 
@@ -78,7 +78,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://webr24.hypp.tv:443/PLTV/88888888/224/3221225748/3221225748.mpd?rrsip=webr24.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=88888888&limitflux=-1&limitdur=-1&tenantId=6001&accountinfo=Y%2FrgWYK9BLxiSJOlDn8yfIhqoip4%2BM9%2BylMMxbP%2BpX7S%2BAy4TET4CLWEA%2BipaKBqsB1dM3bXWpZFkjWHoQxet%2FtTwgk9xyENYpFTe7IxnrCUfR5SRiM19GM6WKhDFoKq53b82b76d4edc9701774ba2558de3243%3A20250730062522%3AUTC%2C1005926113%2C118.100.28.224%2C20250730062522%2Curn%3AHuawei%3AliveTV%3AXTV55631601%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1615850%2C0%2C521145%2C2126030268%2C%2C%2C2%2C1%2C55633563%2CEND&GuardEncType=2&RTS=1753856723&from=28&hms_devid=64&online=1753856723&mag_hms=64,65&it=H4sIAAAAAAAAAy2MwQoCIRQA_8bjQ13bvHgqgi4SbHWNp74VwVbSbaG_r409DszMXNHT-WiEU06R7pUnVJzvUXsipHHnZECnHWv0ssV0zGPOaYq2hDW7D4eH4MBBqg6E7Nl1_Z0yRiP_qn0_HdUNft1AdUmeTGgjLNgAY6wUcU5lgkvGz63mTfkCcIMUupoAAAA
+https://webr24.hypp.tv:443/PLTV/88888888/224/3221225748/3221225748.mpd?rrsip=webr24.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=88888888&limitflux=-1&limitdur=-1&tenantId=6001&accountinfo=M8FLg2TUSfvuS2rC2lN6xcnSQ9TXcwptAC9BFKlOjxFanOVZG8nc%2BCa2PcBJGS9Vmmm1oP4PZe2oosN%2B6ZZEwcO384E1SquB8GN%2BEXI%2FR%2Bkn07TDqzujHCPT7r51amg5778985744b7dfa526910ad7f9190e401%3A20250804024238%3AUTC%2C1005926113%2C118.100.28.224%2C20250804024238%2Curn%3AHuawei%3AliveTV%3AXTV55631601%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1615850%2C0%2C521145%2C2126030268%2C%2C%2C2%2C1%2C55633563%2CEND&GuardEncType=2&RTS=1754275359&from=28&hms_devid=64&online=1754275359&mag_hms=64,65&it=H4sIAAAAAAAAAy2MwQrCMBAF_6bHkGZjtIeclIKXIFS9yiZZQyA2mNSCf28rvb2BmTcVdHQ-6W6359x5VBKkdI5bQAkKDmRFt0zRVHqbrKFxmFIcg8l-ze7D8dFyxpmQwFqhmuv61ycMWvxV83lZKhss3UBljo60r082Y2UYQqGAU8wjuyT83kralB_fVqZKmgAAAA
 
 
 
