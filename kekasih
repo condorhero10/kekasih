@@ -360,7 +360,40 @@ https://unifi-live27.secureswiftcontent.com/UnifiHD/live27.mpd
 
 
 #EXTINF:-1 tvg-id="SonyPix" ch-number="418" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-title="Movies",Sony Pix   
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2688.ts
+https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+
+#EXTINF:-1 tvg-id="HboSignature" ch-number="419" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/400px-HBO_Signature_Asia.png" group-title="Movies",HBO Signature
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
+
+#EXTINF:-1 tvg-id="99951377" ch-number="420" tvg-name="AMC Thrillers" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/AmcThrill.png" group-title="Movies",AMC Thrillers
+https://raw.githubusercontent.com/mystery75/m3u8/main/AMCTRILL.m3u8
+
+#EXTINF:-1 tvg-id="ts173"  ch-number="421" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png" group-logo="" group-title="Movies",Movies Now
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-id="StarMovies" ch-number="422" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" group-title="Movies",Star Movies
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2687.ts
+
+#EXTINF:-1 tvg-id="99991621" ch-number="423" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/UniversalMovies.png" group-logo="" group-title="Movies",Universal Movies
+https://raw.githubusercontent.com/mystery75/m3u8/main/UNIVERSALMOV.m3u8
+
+
+#EXTINF:-1 tvg-id="Studio.Universal.id" ch-number="424" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StudioUniversal.png" group-logo="" group-logo="" group-title="Movies",Studio Universal
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
+
+
 
 
 #EXTINF:-1 group-title="Kids" ch-number="472" tvg-id="Animax" tvg-chno="472" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax HD
