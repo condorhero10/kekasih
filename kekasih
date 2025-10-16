@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/Jerrie-Aries/epg/master/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/myiptv/main/singapore.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://www.open-epg.com/files/philippines2.xml,https://raw.githubusercontent.com/BuddyChewChew/My-Streams/heads/main/epgs/Backup-epg.xml,https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz" refresh="1440" max-conn="1" refresh="24"
 
-https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml
-https://xmltv.tvkaista.net/guides/indihometv.com.xml
 
 
 
@@ -12,11 +10,12 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/TV1.m3u8
 https://raw.githubusercontent.com/mystery75/m3u8/main/TV2.m3u8
 
 #EXTINF:-1 tvg-id="TV3" group-title="Freeview" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTVLCOPT:Host=tonton-live-switch-ssar.akamaized.net
-#EXTHTTP:{"Origin":"https://tonton-live-sg3.akamaized.net"}
-#EXTVLCOPT:http-referrer=https://tonton-live-sg3.akamaized.net/
-https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+https://get.perfecttv.net/dash2.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=tv3
+
 
 #EXTINF:-1 tvg-id="AstroRia" group-title="Astro" ch-number="104" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -76,12 +75,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/dashiso/1113/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
-#EXTINF:-1 tvg-id="120.unifi" ch-number="120" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" group-logo="" group-title="Freeview",Degup 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://webr24.hypp.tv:443/PLTV/88888888/224/3221225748/3221225748.mpd?rrsip=webr24.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=88888888&limitflux=-1&limitdur=-1&tenantId=6001&accountinfo=M8FLg2TUSfvuS2rC2lN6xcnSQ9TXcwptAC9BFKlOjxFanOVZG8nc%2BCa2PcBJGS9Vmmm1oP4PZe2oosN%2B6ZZEwcO384E1SquB8GN%2BEXI%2FR%2Bkn07TDqzujHCPT7r51amg5778985744b7dfa526910ad7f9190e401%3A20250804024238%3AUTC%2C1005926113%2C118.100.28.224%2C20250804024238%2Curn%3AHuawei%3AliveTV%3AXTV55631601%2C1005926113%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1615850%2C0%2C521145%2C2126030268%2C%2C%2C2%2C1%2C55633563%2CEND&GuardEncType=2&RTS=1754275359&from=28&hms_devid=64&online=1754275359&mag_hms=64,65&it=H4sIAAAAAAAAAy2MwQrCMBAF_6bHkGZjtIeclIKXIFS9yiZZQyA2mNSCf28rvb2BmTcVdHQ-6W6359x5VBKkdI5bQAkKDmRFt0zRVHqbrKFxmFIcg8l-ze7D8dFyxpmQwFqhmuv61ycMWvxV83lZKhss3UBljo60r082Y2UYQqGAU8wjuyT83kralB_fVqZKmgAAAA
-
 
 
 #EXTINF:-1 tvg-id="121.unifi" ch-number="121" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202208/20220816/20220816023117758jev.png" group-logo="" group-title="Freeview",Siar 
@@ -125,7 +118,7 @@ https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroVinmeen" ch-number="202" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png" group-title="Indian",Astro Vinmeen
+EXTINF:-1 tvg-id="AstroVinmeen" ch-number="202" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png" group-title="Indian",Astro Vinmeen
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aMXbOzCfq1UDpv21gN3ygQ", "kid":"x3N+3R1ngk+nDfcxVL+BEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -352,52 +345,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
-#EXTINF:-1 tvg-id="128.unifi" ch-number="417" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-logo="" group-title="Movies",Dunia Sinema
-#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/unifitv/duniasinema/
-https://unifi-live27.secureswiftcontent.com/UnifiHD/live27.mpd
 
 
-#EXTINF:-1 tvg-id="SonyPix" ch-number="418" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-title="Movies",Sony Pix   
-https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
-
-#EXTINF:-1 tvg-id="HBOSignatureHD" ch-number="419" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png?w=272" group-title="Movies",HBO Signature
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
-
-#EXTINF:-1 tvg-id="99951377" ch-number="420" tvg-name="AMC Thrillers" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/AmcThrill.png" group-title="Movies",AMC Thrillers
-https://raw.githubusercontent.com/mystery75/m3u8/main/AMCTRILL.m3u8
-
-#EXTINF:-1 tvg-id="ts173"  ch-number="421" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png" group-logo="" group-title="Movies",Movies Now
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
-https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
-
-#EXTINF:-1 tvg-id="StarMovies" ch-number="422" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" group-title="Movies",Star Movies
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2687.ts
-
-#EXTINF:-1 tvg-id="99991621" ch-number="423" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/UniversalMovies.png" group-logo="" group-title="Movies",Universal Movies
-https://raw.githubusercontent.com/mystery75/m3u8/main/UNIVERSALMOV.m3u8
-
-
-#EXTINF:-1 tvg-id="Studio.Universal.id" ch-number="424" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StudioUniversal.png" group-logo="" group-logo="" group-title="Movies",Studio Universal
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=
-https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
-
-
-
-
-#EXTINF:-1 group-title="Kids" ch-number="472" tvg-id="Animax" tvg-chno="472" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax HD
+EXTINF:-1 group-title="Kids" ch-number="472" tvg-id="Animax" tvg-chno="472" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -428,11 +378,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
 
-#EXTINF:-1 tvg-id="GlobalTrekker" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png" ch-number="551" group-title="Documentaries",Global Treker 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L7Oas/VTM9X6PoMOv5nsFg", "kid":"ktNKhPro5U3gqClimUG+EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default_ott.mpd
 
 #EXTINF:-1 tvg-id="DiscoveryChannel" group-title="Documentaries" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" ch-number="552",Discovery Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
